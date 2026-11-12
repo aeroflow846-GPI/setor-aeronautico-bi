@@ -3,8 +3,8 @@ Este API consistiu no desenvolvimento de um dashboard para o setor aeronáutico,
 
 # SPRINT_1 
 Na Sprint 2, avançamos com a base RAIS.
-Entendemos o perfil dos colaboradores, a faixa salarial e o nível acadêmico do setor aeronáutico.
-Os dados agora ajudam a entender melhor o setor e a planejar os próximos passos.
+O projeto consiste em uma API voltada para o setor aeronáutico, criada em parceria com o Observatório de Desenvolvimento de São José dos Campos - SP e Fatec.
+Seu propósito é integrar empresas, colaboradores e localidade, facilitando o acesso à informação e fortalecendo a interatividade dentro do ecossistema aeronáutico local.
 
 https://canva.link/wpgzey7jvw9dtjc
 https://youtube.com/@aeroflow-x8g?si=W_WNBgEO48EWG4c-
